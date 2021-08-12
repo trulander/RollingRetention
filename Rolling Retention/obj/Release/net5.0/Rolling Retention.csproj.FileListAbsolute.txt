@@ -1,0 +1,82 @@
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\appsettings.Development.json
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\appsettings.json
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\Rolling Retention.exe
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\Rolling Retention.deps.json
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\Rolling Retention.runtimeconfig.json
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\Rolling Retention.runtimeconfig.dev.json
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\Rolling Retention.dll
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\ref\Rolling Retention.dll
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\Rolling Retention.pdb
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\Humanizer.dll
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\Microsoft.Identity.Client.dll
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\Microsoft.OpenApi.dll
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\Newtonsoft.Json.dll
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\SQLitePCLRaw.core.dll
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\System.Runtime.Caching.dll
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\obj\Release\net5.0\Rolling Retention.csproj.AssemblyReference.cache
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\obj\Release\net5.0\Rolling Retention.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\obj\Release\net5.0\Rolling Retention.AssemblyInfoInputs.cache
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\obj\Release\net5.0\Rolling Retention.AssemblyInfo.cs
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\obj\Release\net5.0\Rolling Retention.csproj.CoreCompileInputs.cache
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\obj\Release\net5.0\Rolling Retention.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\obj\Release\net5.0\Rolling Retention.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\obj\Release\net5.0\staticwebassets\Rolling Retention.StaticWebAssets.Manifest.cache
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\obj\Release\net5.0\staticwebassets\Rolling Retention.StaticWebAssets.xml
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\obj\Release\net5.0\scopedcss\bundle\Rolling Retention.styles.css
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\obj\Release\net5.0\Rolling Retention.RazorTargetAssemblyInfo.cache
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\obj\Release\net5.0\Rolling Retention.csproj.CopyComplete
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\obj\Release\net5.0\Rolling Retention.dll
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\obj\Release\net5.0\ref\Rolling Retention.dll
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\obj\Release\net5.0\Rolling Retention.pdb
+C:\Users\alex\Projects\rider\Rolling Retention\Rolling Retention\obj\Release\net5.0\Rolling Retention.genruntimeconfig.cache
